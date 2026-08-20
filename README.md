@@ -121,3 +121,5 @@ A ready-to-import `postman_collection.json` is included, with separate
 - WebSocket push so customers see live status updates without polling
 - Daily sales report endpoint for admin (`GET /orders/analytics`)
 - Image upload for menu items instead of a plain `imageUrl` string field
+
+# Testing CodeRabbit
